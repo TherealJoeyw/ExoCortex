@@ -3,7 +3,7 @@ A custom self improving LLM prompt and framework for co-creating a personalized 
 
 ---
 <p align="center">
-  <img src="/ASSETS/logo.png" alt="Exocortex Logo" width="150">
+  <img src="/.assets/logo.png" alt="Exocortex Logo" width="150">
 </p>
 
 # The Exocortex Framework (The Phoenix Protocol)

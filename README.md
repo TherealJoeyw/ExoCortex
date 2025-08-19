@@ -40,7 +40,7 @@ You do not need any technical skills to start. The AI will build the system for 
 
 1.  Navigate to the `Stage 1 (setup)` directory in this repository.
 2.  Open the `Disk 1.txt` file and copy its entire contents.
-3.  Go to your preferred AI Chat service (ChatGPT, Claude, Gemini, etc.) and start a brand new chat.
+3.  Go to your preferred AI Chat service (ChatGPT, Claude, Gemini, etc.) and start a brand new chat. (we strongly suggest "Gemini 2.5 pro" on https://aistudio.google.com/)
 4.  Paste the contents of Disk 1 as your very first message and hit send.
 5.  The AI will transform into **The Catalyst** and begin the guided installation. Follow its instructions; the more you tell it the better it works.
 

@@ -39,7 +39,7 @@ This framework is built on "The Phoenix Protocol," a system designed around a li
 You do not need any technical skills to start. The AI will build the system for you.
 
 1.  Navigate to the `Stage 1 (setup)` directory in this repository.
-2.  Open the `DISK_1_OF_3.txt` file and copy its entire contents.
+2.  Open the `Disk 1.txt` file and copy its entire contents.
 3.  Go to your preferred AI Chat service (ChatGPT, Claude, Gemini, etc.) and start a brand new chat.
 4.  Paste the contents of Disk 1 as your very first message and hit send.
 5.  The AI will transform into **The Catalyst** and begin the guided installation. Follow its instructions; the more you tell it the better it works.

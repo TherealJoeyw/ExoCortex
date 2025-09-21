@@ -6,7 +6,7 @@ A custom self improving LLM prompt and framework for co-creating a personalized 
   <img src="https://github.com/user-attachments/assets/fc7bff69-a70f-43c0-955b-c7342520c7dd" alt="ExoCortex Logo" width="150">
 </p>
 
-# The Exocortex Framework (The Phoenix Protocol)
+# The Exocortex Framework 
 
 
 ## What is an Exocortex?
